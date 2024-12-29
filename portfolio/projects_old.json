@@ -1,0 +1,122 @@
+[
+  {
+    "project_name": "Face Recognition for Attendance",
+    "project_category": "AI Solutions",
+    "description": "An advanced facial recognition system for attendance automation.",
+    "pointers": [
+      "Contactless attendance tracking",
+      "High accuracy facial recognition",
+      "Integrates with HR systems"
+    ],
+    "image_folder": "face-recognition",
+    "file_name": "face-recognition-attendance.html"
+  },
+  {
+    "project_name": "AI-Powered Chatbot",
+    "project_category": "AI Solutions",
+    "description": "A smart chatbot solution designed to automate customer interactions.",
+    "pointers": [
+      "24/7 customer support",
+      "Natural language processing",
+      "Seamless integration with CRMs"
+    ],
+    "image_folder": "ai-chatbot",
+    "file_name": "ai-chatbot.html"
+  },
+  {
+    "project_name": "Surveillance for Border Security",
+    "project_category": "Surveillance Solutions",
+    "description": "A comprehensive surveillance system for border security.",
+    "pointers": [
+      "Real-time monitoring",
+      "AI-based threat detection",
+      "360-degree coverage"
+    ],
+    "image_folder": "border-surveillance",
+    "file_name": "border-surveillance.html"
+  },
+  {
+    "project_name": "Maritime Surveillance System",
+    "project_category": "Surveillance Solutions",
+    "description": "Monitoring maritime zones with advanced surveillance technology.",
+    "pointers": [
+      "Water-bound threat detection",
+      "Live video streaming",
+      "Coverage of wide coastal areas"
+    ],
+    "image_folder": "maritime-surveillance",
+    "file_name": "maritime-surveillance.html"
+  },
+  {
+    "project_name": "E-commerce Application Design",
+    "project_category": "Application Design",
+    "description": "A scalable and visually appealing design for online stores.",
+    "pointers": [
+      "User-friendly interfaces",
+      "Optimized checkout process",
+      "Customizable product display"
+    ],
+    "image_folder": "ecommerce-design",
+    "file_name": "ecommerce-application.html"
+  },
+  {
+    "project_name": "HealthCare App UI/UX",
+    "project_category": "Application Design",
+    "description": "A clean and intuitive UI/UX design for healthcare applications.",
+    "pointers": [
+      "Patient management system",
+      "Custom appointment booking UI",
+      "Mobile and web compatibility"
+    ],
+    "image_folder": "healthcare-ui",
+    "file_name": "healthcare-app-design.html"
+  },
+  {
+    "project_name": "Corporate Website Development",
+    "project_category": "Web Designing",
+    "description": "A responsive and professional corporate website.",
+    "pointers": [
+      "SEO-optimized structure",
+      "Mobile-friendly design",
+      "Content management integration"
+    ],
+    "image_folder": "corporate-website",
+    "file_name": "corporate-website.html"
+  },
+  {
+    "project_name": "Portfolio Website for Creatives",
+    "project_category": "Web Designing",
+    "description": "A sleek and modern portfolio website for showcasing creative work.",
+    "pointers": [
+      "Gallery integration",
+      "Contact forms",
+      "Interactive animations"
+    ],
+    "image_folder": "creative-portfolio",
+    "file_name": "portfolio-website.html"
+  },
+  {
+    "project_name": "IoT Smart Home System",
+    "project_category": "IoT and Smart Systems",
+    "description": "A connected home system enabling smart automation.",
+    "pointers": [
+      "Smart appliance control",
+      "Voice assistant integration",
+      "Remote access and control"
+    ],
+    "image_folder": "smart-home",
+    "file_name": "iot-smart-home.html"
+  },
+  {
+    "project_name": "IoT Smart Factory Monitoring",
+    "project_category": "IoT and Smart Systems",
+    "description": "An IoT system for monitoring factory operations in real-time.",
+    "pointers": [
+      "Real-time equipment monitoring",
+      "Energy consumption analytics",
+      "Automated alerts and reporting"
+    ],
+    "image_folder": "smart-factory",
+    "file_name": "iot-smart-factory.html"
+  }
+]

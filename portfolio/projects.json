@@ -1,0 +1,132 @@
+[
+  {
+    "project_name": "Face Recognition for Attendance",
+    "project_category": "AI Solutions",
+    "description": "Enterprise-grade facial recognition system that automates attendance tracking with 99.9% accuracy. Features real-time processing, multi-face detection, and seamless integration with existing HR management systems.",
+    "pointers": [
+      "Contactless attendance tracking with anti-spoofing technology",
+      "High-speed recognition with 99.9% accuracy rate",
+      "Real-time synchronization with HR management systems",
+      "Support for multiple authentication factors"
+    ],
+    "image_folder": "face-recognition",
+    "file_name": "face-recognition-attendance.html"
+  },
+  {
+    "project_name": "AI-Powered Chatbot",
+    "project_category": "AI Solutions",
+    "description": "Advanced conversational AI platform that handles customer inquiries with human-like understanding. Features multilingual support, context awareness, and deep integration with major CRM platforms.",
+    "pointers": [
+      "24/7 automated customer support with natural language processing",
+      "Multi-language support with real-time translation",
+      "Seamless integration with major CRM platforms",
+      "Advanced analytics and conversation insights"
+    ],
+    "image_folder": "ai-chatbot",
+    "file_name": "ai-chatbot.html"
+  },
+  {
+    "project_name": "Surveillance for Border Security",
+    "project_category": "Surveillance Solutions",
+    "description": "Military-grade surveillance system utilizing AI and thermal imaging for comprehensive border security. Features automated threat detection, night vision capabilities, and integrated command center functionality.",
+    "pointers": [
+      "Real-time monitoring with thermal and night vision",
+      "AI-powered threat detection and classification",
+      "Complete 360-degree coverage with zero blind spots",
+      "Integrated command and control center"
+    ],
+    "image_folder": "border-surveillance",
+    "file_name": "border-surveillance.html"
+  },
+  {
+    "project_name": "Maritime Surveillance System",
+    "project_category": "Surveillance Solutions",
+    "description": "Advanced maritime monitoring solution combining radar, AIS, and AI technologies for comprehensive coastal security. Features all-weather operation capability and integration with maritime traffic systems.",
+    "pointers": [
+      "Advanced detection of water-bound threats in all weather conditions",
+      "High-definition video streaming with encrypted transmission",
+      "Extensive coastal area coverage with multi-sensor fusion",
+      "Integration with vessel traffic management systems"
+    ],
+    "image_folder": "maritime-surveillance",
+    "file_name": "maritime-surveillance.html"
+  },
+  {
+    "project_name": "E-commerce Application Design",
+    "project_category": "Application Design",
+    "description": "High-performance e-commerce platform designed for scalability and conversion optimization. Features responsive design, advanced product discovery, and streamlined checkout process.",
+    "pointers": [
+      "Intuitive user interface with advanced search capabilities",
+      "Optimized checkout process with 40% higher conversion rate",
+      "Customizable product catalogs with dynamic filtering",
+      "Mobile-first responsive design approach"
+    ],
+    "image_folder": "ecommerce-design",
+    "file_name": "ecommerce-application.html"
+  },
+  {
+    "project_name": "HealthCare App UI/UX",
+    "project_category": "Application Design",
+    "description": "HIPAA-compliant healthcare application interface designed for optimal user experience and accessibility. Features intuitive patient management, secure communication, and cross-platform compatibility.",
+    "pointers": [
+      "Comprehensive patient management system with intuitive workflow",
+      "Advanced appointment booking system with AI scheduling",
+      "Cross-platform compatibility for web and mobile devices",
+      "Secure messaging and telemedicine integration"
+    ],
+    "image_folder": "healthcare-ui",
+    "file_name": "healthcare-app-design.html"
+  },
+  {
+    "project_name": "Corporate Website Development",
+    "project_category": "Web Designing",
+    "description": "Enterprise-level corporate website with focus on performance, security, and brand representation. Features advanced SEO optimization, content management system, and analytics integration.",
+    "pointers": [
+      "SEO-optimized architecture with structured data markup",
+      "Responsive design with cross-browser compatibility",
+      "Advanced content management system integration",
+      "Performance-optimized with global CDN support"
+    ],
+    "image_folder": "corporate-website",
+    "file_name": "corporate-website.html"
+  },
+  {
+    "project_name": "Portfolio Website for Creatives",
+    "project_category": "Web Designing",
+    "description": "Dynamic portfolio platform designed for creative professionals with focus on visual impact and performance. Features advanced gallery systems, interactive elements, and optimized media delivery.",
+    "pointers": [
+      "Advanced gallery system with lazy loading",
+      "Interactive contact forms with spam protection",
+      "Custom animations and transitions",
+      "Optimized media delivery with CDN integration"
+    ],
+    "image_folder": "creative-portfolio",
+    "file_name": "portfolio-website.html"
+  },
+  {
+    "project_name": "IoT Smart Home System",
+    "project_category": "IoT and Smart Systems",
+    "description": "Comprehensive smart home automation system with advanced device integration and energy management. Features AI-powered automation, voice control, and military-grade security protocols.",
+    "pointers": [
+      "Centralized smart appliance control with energy optimization",
+      "Multi-platform voice assistant integration",
+      "Secure remote access with end-to-end encryption",
+      "Predictive automation with machine learning"
+    ],
+    "image_folder": "smart-home",
+    "file_name": "iot-smart-home.html"
+  },
+  {
+    "project_name": "IoT Smart Factory Monitoring",
+    "project_category": "IoT and Smart Systems",
+    "description": "Industrial IoT solution for real-time factory monitoring and process optimization. Features predictive maintenance, energy management, and comprehensive analytics dashboard.",
+    "pointers": [
+      "Real-time equipment monitoring with predictive maintenance",
+      "Comprehensive energy consumption analytics",
+      "Automated alert system with priority management",
+      "Custom reporting with business intelligence integration"
+    ],
+    "image_folder": "smart-factory",
+    "file_name": "iot-smart-factory.html"
+  }
+]

@@ -1,0 +1,33 @@
+[
+    {
+      "file_name": "surveillance-solutions",
+      "title": "The Importance of Surveillance Solutions for Businesses",
+      "description": "Learn how modern surveillance systems protect, monitor, and enhance your business operations.",
+      "image_path": "../assets/images/blog/blog-3.jpg",
+      "author": "Admin",
+      "date": "2024-12-12",
+      "keywords": "CCTV, Surveillance",
+      "content": "<p>Security is the backbone of any successful business. With increasing threats ranging from theft to data breaches...</p><h3>1. Crime Deterrence</h3><p>The presence of surveillance cameras is often enough...</p>"
+    },
+    {
+      "file_name": "ai-solutions",
+      "title": "How AI Solutions are Transforming Businesses",
+      "description": "Explore the ways Artificial Intelligence is revolutionizing business efficiency and innovation.",
+      "image_path": "../assets/images/blog/blog-2.jpg",
+      "author": "Admin",
+      "date": "2024-12-13",
+      "keywords": "AI, Artificial Intelligence",
+      "content": "<p>Artificial Intelligence (AI) has emerged as a game-changer for businesses...</p><h3>1. Automating Repetitive Tasks</h3><p>Businesses save time and resources by automating mundane tasks...</p>"
+    },
+    {
+      "file_name": "iot-smart-systems",
+      "title": "The Role of IoT in Building Smart Systems",
+      "description": "Understand how IoT technology is enabling smarter, more connected business ecosystems.",
+      "image_path": "../assets/images/blog/blog-4.jpg",
+      "author": "Admin",
+      "date": "2024-12-14",
+      "keywords": "IOT, Surveillance",
+      "content": "<p>The Internet of Things (IoT) is reshaping industries by connecting devices...</p><h3>1. Enhanced Efficiency</h3><p>IoT systems gather real-time data to improve operational efficiency...</p>"
+    }
+  ]
+  
