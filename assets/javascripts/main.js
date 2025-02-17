@@ -339,3 +339,10 @@ document.getElementById('submitcontactform').addEventListener('click', function 
 
 }
 );
+
+document.querySelectorAll('.bite-sized-faq-question').forEach(question => {
+  question.addEventListener('click', () => {
+      const item = question.parentElement;
+      item.classList.toggle('active');
+  });
+});

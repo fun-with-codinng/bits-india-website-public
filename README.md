@@ -1,1 +1,1 @@
-# bits-india-website
+BITS India - Business & IT Solutions
